@@ -1,0 +1,8 @@
+{"namespace": "com.deepak",
+  "type" : "record",
+  "name": "Person",
+  "fields": [
+    {"name": "firstName","type": "string","doc": "the first name of a person"},
+    {"name": "lastName","type":"string","doc": "the last name of a person"}
+  ]
+}
